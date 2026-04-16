@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "mcp__ide__getDiagnostics",
-      "Bash(npm i:*)"
+      "Bash(npm i:*)",
+      "Bash(npm run:*)",
+      "Bash(cmd:*)",
+      "Bash(powershell:*)"
     ]
   }
 }
